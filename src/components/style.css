@@ -11,4 +11,9 @@
 .search--top{
     justify-content: center;
     align-items: center;
+    margin-top: 50px;
+}
+
+.oculto{
+    display: none;
 }

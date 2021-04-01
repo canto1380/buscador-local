@@ -27,7 +27,7 @@ export default function Search(){
             setResultado(filterData)
         }
     }
-    console.log(resultado)
+
     return(
         <div className={`search ${arriba ? "search--top" : 'search--center'}`}>
             <SearchBox onSearch={searchClick} onClose={funcioncerrar} isSerching={arriba}/>
