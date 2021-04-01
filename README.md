@@ -10,7 +10,7 @@
 3. Se ejecutara la aplicacion en un servidor local (localhost:3000)
 
 # Construido con 🛠
-- [Bootstrap v5.0](`https://getbootstrap.com/docs/5.0/getting-started/introduction/`)
+- [Bootstrap v50](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [Font Awesone](https://fontawesome.com/)
 
 # Autor
